@@ -1,0 +1,28 @@
+{
+  "name": "bd-phone-validator",
+  "version": "1.0.0",
+  "description": "BD Phone Validator",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salorix/bd-phone-validator.git"
+  },
+  "keywords": [
+    "Phone",
+    "validator",
+    "regex",
+    "BD"
+  ],
+  "author": "Bil@sh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salorix/bd-phone-validator/issues"
+  },
+  "homepage": "https://github.com/salorix/bd-phone-validator#readme",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
